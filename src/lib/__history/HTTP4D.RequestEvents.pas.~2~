@@ -1,0 +1,37 @@
+unit HTTP4D.RequestEvents;
+
+interface
+
+type
+
+  TMinhaClasse = class(TInterfacedObject, iminhaInterface)
+  private
+
+  public
+    constructor Create;
+    destructor Destroy; override;
+    class function New: iminhaInterface;
+
+  end;
+
+implementation
+
+{ TMinhaClasse }
+
+constructor TMinhaClasse.Create;
+begin
+
+end;
+
+destructor TMinhaClasse.Destroy;
+begin
+
+  inherited;
+end;
+
+class function TMinhaClasse.New: iminhaInterface;
+begin
+  Result := Self.Create;
+end;
+
+end.

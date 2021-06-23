@@ -1,0 +1,46 @@
+unit HTTP4D.Win.Events;
+
+interface
+
+uses HTTP4D.Contracts;
+
+type
+
+  TWinHTTPEvents = class(TInterfacedObject, IWinHTTPEvents)
+  private
+
+  public
+    constructor Create;
+    destructor Destroy; override;
+    class function New: IWinHTTPEvents;
+    procedure Abort; reintroduce;
+  end;
+
+implementation
+
+uses
+  System.SysUtils;
+{ TWinHTTPEvents }
+
+procedure TWinHTTPEvents.Abort;
+begin
+  System.SysUtils.Abort;
+end;
+
+constructor TWinHTTPEvents.Create;
+begin
+
+end;
+
+destructor TWinHTTPEvents.Destroy;
+begin
+
+  inherited;
+end;
+
+class function TWinHTTPEvents.New: IWinHTTPEvents;
+begin
+  Result := Self.Create;
+end;
+
+end.

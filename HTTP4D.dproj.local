@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/07/22 21:15:54.000.078,=C:\Users\Gabriel e Alcione\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/07/22 21:17:13.000.534,=C:\Users\Gabriel e Alcione\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/07/22 21:19:34.000.178,=C:\Users\Gabriel e Alcione\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/07/22 21:29:03.000.241,=C:\Users\Gabriel e Alcione\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/07/24 20:14:38.000.466,=C:\Users\Gabriel e Alcione\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/08/08 12:46:24.000.797,=C:\Users\Gabriel e Alcione\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/08/19 22:35:32.000.906,=C:\Users\Gabriel e Alcione\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/08/19 22:40:29.000.102,=C:\Users\Gabriel e Alcione\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/11/27 18:57:12.000.190,=C:\Users\Gabriel e Alcione\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/12/08 22:39:31.000.131,=C:\Users\Gabriel e Alcione\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/12/29 11:59:35.000.182,=C:\Users\Gabriel e Alcione\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/06/19 09:40:12.145,=C:\Users\Gabriel e Alcione\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/06/19 09:44:32.801,D:\Desenvolvimento\Fontes\HTTP4D\src\view\Main.pas=C:\Users\Gabriel e Alcione\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/06/19 09:44:32.801,D:\Desenvolvimento\Fontes\HTTP4D\src\view\Main.dfm=C:\Users\Gabriel e Alcione\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021/06/19 09:44:48.939,D:\Desenvolvimento\Fontes\HTTP4D\HTTP4D.dproj=C:\Users\Gabriel e Alcione\OneDrive\Documentos\Embarcadero\Studio\Projects\Project2.dproj</Transaction>
+    <Transaction>2021/06/19 10:40:18.964,=D:\Desenvolvimento\Fontes\HTTP4D\Unit1.pas</Transaction>
+    <Transaction>2021/06/19 10:40:39.967,D:\Desenvolvimento\Fontes\HTTP4D\src\lib\HTTP4D.Contracts.pas=D:\Desenvolvimento\Fontes\HTTP4D\Unit1.pas</Transaction>
+    <Transaction>2021/06/19 10:50:08.424,=D:\Desenvolvimento\Fontes\HTTP4D\Unit1.pas</Transaction>
+    <Transaction>2021/06/19 10:51:07.798,D:\Desenvolvimento\Fontes\HTTP4D\src\lib\HTTP4D.RequestEvents.pas=D:\Desenvolvimento\Fontes\HTTP4D\Unit1.pas</Transaction>
+    <Transaction>2021/06/19 10:52:08.112,D:\Desenvolvimento\Fontes\HTTP4D\src\lib\HTTP4D.Win.Events.pas=D:\Desenvolvimento\Fontes\HTTP4D\src\lib\HTTP4D.RequestEvents.pas</Transaction>
+    <Transaction>2021/06/19 11:41:58.164,=D:\Desenvolvimento\Fontes\HTTP4D\Unit1.pas</Transaction>
+    <Transaction>2021/06/19 11:42:15.210,D:\Desenvolvimento\Fontes\HTTP4D\src\lib\HTTP4D.Win.Request.pas=D:\Desenvolvimento\Fontes\HTTP4D\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
